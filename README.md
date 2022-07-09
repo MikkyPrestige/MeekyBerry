@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Elue Michael
-- 👀 I’m interested in Coding
+- 👀 I’m interested in Coding challenges
 - 🌱 I’m currently learning Front-end web development @Alt-School Africa
-- 💞️ I’m looking to collaborate on projects with anyone willing.
+- 💞️ I’m looking to become a world class developer under the year in view...
 - 📫 How to reach me meekyberry6@gmail.com
 
 <!---
