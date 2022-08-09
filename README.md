@@ -16,12 +16,12 @@
  * <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
 ### 🔭 I'm currently working on →
- * <a href="https://github.com/MeekyBerry/Laundry-business-website" target="_blank" target="_blank">Local Laundry Business Website</a>
+ * <a href="https://github.com/MeekyBerry/Laundry-business-website" target="_blank">Local Laundry Business Website</a>
 
 ### 💼 Technical Skills →
 * <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></span> * <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></span> * <span><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></span> *
 
-* 📫 You can view my <a href="https://github.com/MeekyBerry?tab=repositories" target="_blank">resume</a> and contact me by <a href="mailto: meekyberry6@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center"></a>
+* 📫 You can view my <a href="https://github.com/MeekyBerry?tab=repositories" target="_blank">*Resume*</a> and contact me by <a href="mailto: meekyberry6@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center"></a>
 
 ### 💻 Goals →
  * 💞️ I’m working towards becoming a world class developer under the year in view.
