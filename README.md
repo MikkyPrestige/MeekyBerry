@@ -34,7 +34,7 @@
  [![Meeky's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeekyBerry&layout=compact&theme=react&s)](https://github.com/MeekyBerry)
   
  [![Meeky’s github stats](https://github-readme-stats.vercel.app/api?username=MeekyBerry&show_icons=true&theme=chartreuse-dark)](https://github.com/MeekyBerry)
- 
+ <!---
  <a href="https://github.com/MeekyBerry">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MeekyBerry&repo=Frontend-Mentor-challenges&theme=highcontrast">
  </a>
@@ -42,7 +42,7 @@
  <a href="https://github.com/MeekyBerry">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MeekyBerry&repo=Phantom-Devz&theme=algolia">
  </a> 
-
+--->
 
 <!---
 MeekyBerry/MeekyBerry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
