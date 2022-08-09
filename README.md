@@ -18,7 +18,7 @@
 #### 🔭 I'm currently working on →
  * <a href="https://github.com/MeekyBerry/Laundry-business-website" target="_blank">Local Laundry Business Website</a>
 
-### 💼 Technical Skills
+### 💼 Technical Skills →
 * <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></span> * <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></span> * <span><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></span> *
 
 * 📫 You can view my [resume](https://github.com/MeekyBerry) and contact me by <a href="mailto: meekyberry6@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center"></a>
@@ -28,7 +28,7 @@
  * 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
  * 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
  
- 📈 GitHub Stats
+ 📈 GitHub Stats →
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeekyBerry&layout=compact)](https://github.com/MeekyBerry)
 
