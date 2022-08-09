@@ -13,6 +13,8 @@
  * 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
  * 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
  * 📫 You can view my [resume](https://github.com/MeekyBerry) and contact me by emailing meekyberry6@gmail.com
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeekyBerry&layout=compact)](https://github.com/MeekyBerry)
 
 <!---
 MeekyBerry/MeekyBerry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
