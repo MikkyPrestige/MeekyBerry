@@ -32,12 +32,12 @@
  ### 📈 GitHub Stats →
 
  <a href="https://github.com/MeekyBerry">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeekyBerry&layout=compact&theme=react&s">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeekyBerry&layout=compact&theme=react&s">
   </a>
   
   
   <a href="https://github.com/MeekyBerry">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=MeekyBerry&show_icons=true&theme=chartreuse-dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MeekyBerry&show_icons=true&theme=chartreuse-dark">
   </a>
   
  <!---
