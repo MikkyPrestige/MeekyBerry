@@ -37,7 +37,7 @@
   
   
   <a href="https://github.com/MeekyBerry">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MeekyBerry&show_icons=true&theme=chartreuse-dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=MeekyBerry&show_icons=true&theme=chartreuse-dark">
   </a>
   
  <!---
