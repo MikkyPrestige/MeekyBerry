@@ -33,8 +33,9 @@
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeekyBerry&layout=compact&theme=react&s)](href="https://github.com/MeekyBerry)
 
+ <!--
  [![Meeky's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeekyBerry&show_icons=true&theme=chartreuse-dark)](href="https://github.com/MeekyBerry)
- <!--  
+  
  <a href="https://github.com/MeekyBerry">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MeekyBerry&repo=Frontend-Mentor-challenges&theme=highcontrast">
  </a>
