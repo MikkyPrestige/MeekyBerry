@@ -1,7 +1,9 @@
 # Hello there; **welcome** 👋🏾
 
+* <img src="https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white">
+
 ###  🤝🏽 Connect with me →
- <a href="https://www.linkedin.com/in/mikkylanky/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Icon" align="center"></a> | <a href="https://replit.com/@meekyberry" target="_blank"><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Replit Icon" align="center"></a> | <a href="https://codepen.io/mikky_lanky" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codePen Icon" align="center"></a> | <a href="https://twitter.com/Mikky_lanky" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Icon" align="center"></a>
+ <a href="https://www.linkedin.com/in/mikkylanky/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge" align="center"></a> | <a href="https://replit.com/@meekyberry" target="_blank"><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Replit Badge" align="center"></a> | <a href="https://codepen.io/mikky_lanky" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codePen Icon" align="center"></a> | <a href="https://twitter.com/Mikky_lanky" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" align="center"></a> | <a href="https://github.com/MeekyBerry/MeekyBerry" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge" align="center"></a> | <a href="https://leetcode.com/meekyberry" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Badge" align="center"></a>
  * <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" align="center"> Please feel free to reach out to me if you have any question or feedback for me
 
 ### I am **Elue Michael**, I'm a *Software Engineer*. I'm passionate about sharing knowledge, web engineering, and others.
@@ -11,16 +13,16 @@
  ### 💡 Fun act →
  *  I'm currently studying at AltSchool Africa <a href="https://www.altschoolafrica.com/schools/engineering" target="_blank">School of Software Engineering</a> Class of 2022.
  * 👀 I’m interested in Coding challenges
+ * I love playing <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PSN badge" align="center" /> AND <img src="https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white" alt="Fifa badge" align="center" /> Games
  
  ### 🌱 I’m currently learning →
- * <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
- * <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+ * <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue Badge" align="center" />
 
-### 🔭 I'm currently working on →
- * <a href="https://github.com/MeekyBerry/Laundry-business-website" target="_blank">Local Laundry Business Website</a>
+<!-- ### 🔭 I'm currently working on → -->
+<!--  * <a href="https://github.com/MeekyBerry/Laundry-business-website" target="_blank">Local Laundry Business Website</a> -->
 
 ### 💼 Technical Skills →
-* <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></span> * <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></span> * <span><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></span> *
+* <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" align="center"></span> * <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" align="center"></span> * <span><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" align="center"></span> * <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" align="center"></span> * <span><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" align="center"></span> * <span><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" align="center"></span>
 
 * 📫 You can view my <a href="https://github.com/MeekyBerry?tab=repositories" target="_blank">*Resume*</a> and contact me by <a href="mailto: meekyberry6@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center"></a>
 
