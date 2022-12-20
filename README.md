@@ -26,7 +26,7 @@
 * <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge" align="center"></span> * <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS# Badge" align="center"></span> * <span><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass Badge" align="center"></span>
 * <span><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" align="center"></span> * <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript Badge" align="center"></span> * <span><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge" align="center"></span> *
 
-* 📫 You can view my <a href="///C:/Users/Mikky/OneDrive/Documents/ELUE%20MICHAEL.pdf">resume</a> and contact me by emailing <a href="mailto: meekyberry6@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center"></a>
+* 📫 You can view my [resume](https://my.indeed.com/p/eluem-sg1gp9h) and contact me by emailing <a href="mailto: meekyberry6@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center"></a>
 
 ### 💻 Goals →
  * 💞️ I’m working towards becoming a world class developer under the year in view.
