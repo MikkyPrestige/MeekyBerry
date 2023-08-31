@@ -1,10 +1,10 @@
 # Hello World 👋🏾
 
 <!--  ![](https://komarev.com/ghpvc/?username=your-MeekyBerry&color=green) -->
- [![Visitors](https://api.visitorbadge.io/api/visitors?path=MeekyBerry&labelColor=%23d9e3f0&countColor=%232ccce4&style=flat)](https://visitorbadge.io/status?path=MeekyBerry)
+ [![Visitors](https://api.visitorbadge.io/api/visitors?path=MikkyPrestige&labelColor=%23d9e3f0&countColor=%232ccce4&style=flat)](https://visitorbadge.io/status?path=MikkyPrestige)
 
 ###  🤝🏽 Connect with me →
- <a href="https://www.linkedin.com/in/mikkylanky" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge" align="center"></a> | <a href="https://mikkylanky.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-232ccce4?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Icon" align="center"></a> | <a href="https://replit.com/@meekyberry" target="_blank"><img src="https://img.shields.io/badge/replit-100000?style=for-the-badge&logo=replit&logoColor=white" alt="Replit Badge" align="center"></a> | <a href="https://meekyberry.hashnode.dev/" target="_blank"><img src="https://img.shields.io/badge/Hashnode-1DA1F2?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge" align="center"></a> | <a href="https://leetcode.com/meekyberry" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Badge" align="center"></a>
+ <a href="https://www.linkedin.com/in/mikkylanky" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge" align="center"></a> | <a href="https://www.michaelelue.tech" target="_blank"><img src="https://img.shields.io/badge/Portfolio-232ccce4?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Icon" align="center"></a> | <a href="https://replit.com/@meekyberry" target="_blank"><img src="https://img.shields.io/badge/replit-100000?style=for-the-badge&logo=replit&logoColor=white" alt="Replit Badge" align="center"></a> | <a href="https://meekyberry.hashnode.dev/" target="_blank"><img src="https://img.shields.io/badge/Hashnode-1DA1F2?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge" align="center"></a>
  * <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" align="center"> Please feel free to reach out to me if you have any question or feedback for me
 
 ### I am **Elue Michael**, I'm a *Front-End Developer*. I'm passionate about sharing knowledge, web engineering and development.
@@ -35,13 +35,13 @@
  
  ### 📈 GitHub Stats →
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeekyBerry&layout=compact&theme=react&s)]
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikkyPrestige&layout=compact&theme=react&s)]
 
  <!--
- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=MeekyBerry&show_icons=true&theme=react&s)]
+ [![GitHub stats](https://github-readme-stats.vercel.app/api?username=MikkyPrestige&show_icons=true&theme=react&s)]
  
- <a href="https://github.com/MeekyBerry">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MeekyBerry&repo=RandomPeopleApp&theme=highcontrast">
+ <a href="https://github.com/MikkyPrestige">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MikkyPrestige&repo=RandomPeopleApp&theme=highcontrast">
  </a>
 -->
 
